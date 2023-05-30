@@ -39,7 +39,7 @@ A simple weather app displaying the current weather in our favourite city of Hel
     
     `docker compose up -d`
     
-    To then stop the running containers, run:
+    To then stop and remove the containers, run:
     
     `docker compose down`
   
